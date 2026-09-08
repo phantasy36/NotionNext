@@ -4,7 +4,7 @@
 
 # NotionNext
 
-用 Notion 搭建自己的独立站
+用 Notion 搭建自己的独立站 v1
 
 继续在 Notion 写作，一键发布为博客、作品集、知识库、导航站或产品官网。
 
